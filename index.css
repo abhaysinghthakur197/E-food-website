@@ -1,0 +1,62 @@
+.signup {
+  list-style: none;
+}
+
+
+/* location button */
+
+.location:hover{
+  text-decoration: underline;
+}
+
+
+/* footer */
+.foot1{
+  font-size: 12px;
+}
+
+
+.row1{
+  height: 150px;
+}
+
+.row2{
+  height: 100px;
+}
+
+.line{
+ border: 0.3px solid white;
+ width: 90%;
+
+}
+
+
+
+/* sign up page */
+
+.form{
+  
+  opacity: 0.6;
+  position: absolute;
+  border: 2px solid red;
+  width: 60%;
+  height: 110%;
+  top: 10px;
+  left:15rem;
+
+}
+
+/* andheri */
+.card1:hover{
+
+  padding:  0px 5px 0px 20px;
+/*   
+  position: relative;
+  width: 22px;
+   /* right: 20px;
+  left: 20px; */ */
+
+ 
+ /* display: auto; */
+  
+}
